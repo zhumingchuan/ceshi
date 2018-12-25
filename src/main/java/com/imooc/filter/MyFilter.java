@@ -22,7 +22,7 @@ public class MyFilter implements Filter {
     @Override
     public void doFilter(ServletRequest request, ServletResponse res, FilterChain chan) throws IOException, ServletException {
         HttpServletRequest req = (HttpServletRequest) request;
-        System.out.println("2222222222222333322222222222222s");
+        System.out.println("222222222222");
         HttpHeaders headers = new HttpHeaders();
         String authorization = req.getHeader("Authorization");
         String name = request.getParameter("name");
