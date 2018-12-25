@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a8386af3-36c7-40b8-8991-59b9796532a1" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/imooc/Application.class" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/imooc/base/ApiResponse$Status.class" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/imooc/base/ApiResponse.class" />
@@ -939,6 +940,10 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/templates/user/login.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/imooc/filter/MyFilter.java" afterPath="$PROJECT_DIR$/src/main/java/com/imooc/filter/MyFilter.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/db/schema.sql" afterPath="$PROJECT_DIR$/target/test-classes/db/schema.sql" />
+=======
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/imooc/filter/MyFilter.java" afterPath="$PROJECT_DIR$/src/main/java/com/imooc/filter/MyFilter.java" />
+>>>>>>> dev2
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -1025,8 +1030,13 @@
       <file leaf-file-name="MyFilter.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/imooc/filter/MyFilter.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="201">
               <caret line="25" column="52" lean-forward="false" selection-start-line="25" selection-start-column="52" selection-end-line="25" selection-end-column="52" />
+=======
+            <state relative-caret-position="224">
+              <caret line="25" column="44" lean-forward="false" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
+>>>>>>> dev2
               <folding>
                 <element signature="imports" expanded="true" />
                 <marker date="1545717494964" expanded="false" signature="1456:1467" ph=" { " />
@@ -2046,7 +2056,7 @@
       <workItem from="1545611999149" duration="5821000" />
       <workItem from="1545621646979" duration="1775000" />
       <workItem from="1545706049764" duration="624000" />
-      <workItem from="1545716043706" duration="688000" />
+      <workItem from="1545716043706" duration="1183000" />
     </task>
     <servers />
   </component>
@@ -2083,7 +2093,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="160824000" />
+=======
+    <option name="totallyTimeSpent" value="161150000" />
+>>>>>>> dev2
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -2493,6 +2507,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/main/java/com/imooc/filter/MyFilter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="201">
@@ -2505,6 +2520,8 @@
         </state>
       </provider>
     </entry>
+=======
+>>>>>>> dev2
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
@@ -2534,6 +2551,16 @@
         <state relative-caret-position="348">
           <caret line="27" column="57" lean-forward="false" selection-start-line="27" selection-start-column="57" selection-end-line="27" selection-end-column="57" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/imooc/filter/MyFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="25" column="44" lean-forward="false" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
