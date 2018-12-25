@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a8386af3-36c7-40b8-8991-59b9796532a1" name="Default Changelist" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="a8386af3-36c7-40b8-8991-59b9796532a1" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -133,8 +131,8 @@
       <file leaf-file-name="LoginUrlEntryPoint.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/imooc/config/LoginUrlEntryPoint.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="506">
-              <caret line="52" column="21" lean-forward="false" selection-start-line="52" selection-start-column="21" selection-end-line="52" selection-end-column="21" />
+            <state relative-caret-position="322">
+              <caret line="44" column="22" lean-forward="true" selection-start-line="44" selection-start-column="22" selection-end-line="44" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -1103,7 +1101,7 @@
       <workItem from="1545706049764" duration="624000" />
       <workItem from="1545716043706" duration="688000" />
       <workItem from="1545719968958" duration="26000" />
-      <workItem from="1545720130036" duration="24000" />
+      <workItem from="1545720130036" duration="73000" />
     </task>
     <servers />
   </component>
@@ -1140,7 +1138,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="160705000" />
+    <option name="totallyTimeSpent" value="160754000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1542,8 +1540,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/imooc/config/LoginUrlEntryPoint.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="52" column="21" lean-forward="false" selection-start-line="52" selection-start-column="21" selection-end-line="52" selection-end-column="21" />
+        <state relative-caret-position="322">
+          <caret line="44" column="22" lean-forward="true" selection-start-line="44" selection-start-column="22" selection-end-line="44" selection-end-column="22" />
           <folding />
         </state>
       </provider>
