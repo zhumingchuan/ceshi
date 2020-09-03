@@ -21,6 +21,7 @@ public class HomeController {
 
     @GetMapping("/500")
     public String internalError() {
+        String s = "hello";
         return "500";
     }
     @GetMapping("/logout/page")
