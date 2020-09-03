@@ -21,8 +21,6 @@ public class HomeController {
 
     @GetMapping("/500")
     public String internalError() {
-        String s = "hello world";
-        System.out.println("测试git hub");
         return "500";
     }
     @GetMapping("/logout/page")
